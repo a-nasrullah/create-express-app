@@ -1,0 +1,15 @@
+{
+  "name": "@anasrullah/create-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/a-nasrullah/create-express-app#README.md",
+  "bin": {
+    "@anasrullah/create-express-app": "./generate-app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rimraf": "^5.0.1"
+  }
+}
